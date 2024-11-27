@@ -1,4 +1,4 @@
-# FASTA Sequence Filtering Script
+# FASTA Sequence Filtering
 
 This Python script parses a FASTA file, stores the sequences in a dictionary, and filters them based on their length. It outputs sequences longer than a specified threshold in FASTA format.
 
